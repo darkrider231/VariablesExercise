@@ -12,20 +12,19 @@ num = num + 7;
 num += 7;
 
 // #5
-num = num - 1;
-num -= 1;
+num--;
 
 // #6
-const num = "This is not a number";
+num = "This is not a number";
 
 // #7
-let blank;
+blank = null;
 
 // #8
 console.log(blank);
 
 // #9
-const blank = null;
+blank = null;
 
 // BONUS
 // #1
@@ -38,4 +37,4 @@ console.log(quarter, dime, nickel, penny);
 let letters = "qwertyuiop";
 
 // #4
-console.log(letters[10].length);
+console.log(letters[9].length);

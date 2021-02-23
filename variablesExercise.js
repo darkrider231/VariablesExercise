@@ -28,7 +28,7 @@ blank = null;
 
 // BONUS
 // #1
-let quarter = 0.25, dime = 0.10, nickel = 0.05, penny = 0.01;
+const quarter = 0.25, dime = 0.10, nickel = 0.05, penny = 0.01;
 
 // #2
 console.log(quarter, dime, nickel, penny);
